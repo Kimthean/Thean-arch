@@ -37,7 +37,7 @@
 </a>
 <br>
 <a href="https://github.com/Thean-Arch/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=socheatathai&layout=compact&theme=vision-friendly-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Thean-Arch&layout=compact&theme=vision-friendly-dark" />
 </a>
 
 <br>
