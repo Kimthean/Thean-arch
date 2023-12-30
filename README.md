@@ -9,7 +9,7 @@
   <p>
     I am a lost developer.<br>
     I am trying to find u in my heart.  <br> <br>
-    My Portfolio: <a href="https://www.thean.codes/"> thean.codes </a>
+    My Portfolio: <a href="https://www.thean.codes/" target="_blank"> thean.codes </a>
     
   </p> 
 
